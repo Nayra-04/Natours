@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing Page for Natours",
+  "homepage": "https://github.com/Nayra-04/Natours#readme",
+  "bugs": {
+    "url": "https://github.com/Nayra-04/Natours/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nayra-04/Natours.git"
+  },
+  "license": "ISC",
+  "author": "Nayra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass sass/main.scss css/style.css -w"
+  },
+  "devDependencies": {
+    "sass": "^1.104.0"
+  }
+}
